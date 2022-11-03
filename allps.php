@@ -43,35 +43,35 @@ $result = $conn->query($sql);
         </div>
     </nav>
     <div class="container-fluid bg-light mt-5 py-5">
-                <table class="table table-striped">
-                    <thead>
-                    <tr>
-                        <th>PID</th>
-                        <th>NAME</th>
-                        <th>SEX</th>
-                        <th>DOB</th>
-                        <th>ADR</th>
-                        <th>MOB</th>
-                    </tr>
-                    </thead>
-                    <?php
-                    if (isset($result)) {
-                        while($row = $result->fetch_assoc()){
-                    ?>
-                    <tr>
-                        <td><?php echo $row['pid']; ?></td>
-                        <td><?php echo $row['fnm']," ",$row['mnm']," ",$row['lnm']; ?></td>
-                        <td><?php echo $row['sex']; ?></td>
-                        <td><?php echo $row['dob']; ?></td>
-                        <td><?php echo $row['adr']; ?></td>
-                        <td><?php echo $row['mob']; ?></td>
-                    </tr>
-                    <?php
-                        }
-                    }
-                    $conn->close();
-                    ?>
-                </table>
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th>PID</th>
+                <th>NAME</th>
+                <th>SEX</th>
+                <th>DOB</th>
+                <th>ADR</th>
+                <th>MOB</th>
+            </tr>
+            </thead>
+            <?php
+            if (isset($result)) {
+                while($row = $result->fetch_assoc()){
+            ?>
+            <tr>
+                <td><?php echo $row['pid']; ?></td>
+                <td><?php echo $row['fnm']," ",$row['mnm']," ",$row['lnm']; ?></td>
+                <td><?php echo $row['sex']; ?></td>
+                <td><?php echo $row['dob']; ?></td>
+                <td><?php echo $row['adr']; ?></td>
+                <td><?php echo $row['mob']; ?></td>
+            </tr>
+            <?php
+                }
+            }
+            $conn->close();
+            ?>
+        </table>
     </div>
     <script src="js/bootstrap.bundle.js"></script>
 </body>
