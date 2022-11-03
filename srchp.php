@@ -52,73 +52,73 @@ if (isset($_GET['pid'], $_GET['fnm'])) {
         </div>
     </nav>
     <div class="container-fluid bg-light mt-5 py-5">
-                <table class="table table-striped">
-                    <thead>
-                    <tr>
-                        <th>PID</th>
-                        <th>NAME</th>
-                        <th>SEX</th>
-                        <th>DOB</th>
-                        <th>ADR</th>
-                        <th>MOB</th>
-                    </tr>
-                    </thead>
-                    <?php
-                    if (isset($result)) {
-                        while($row = $result->fetch_assoc()){
-                    ?>
-                    <tr>
-                        <td><?php echo $row['pid']; ?></td>
-                        <td><?php echo $row['fnm']," ",$row['mnm']," ",$row['lnm']; ?></td>
-                        <td><?php echo $row['sex']; ?></td>
-                        <td><?php echo $row['dob']; ?></td>
-                        <td><?php echo $row['adr']; ?></td>
-                        <td><?php echo $row['mob']; ?></td>
-                    </tr>
-                    <?php
-                        }
-                    }
-                    ?>
-                </table>
-                <table class="table table-striped">
-                    <thead>
-                    <tr>
-                        <th>PID</th>
-                        <th>VID</th>
-                        <th>DOV</th>
-                        <th>AGE</th>
-                        <th>CC</th>
-                        <th>DX</th>
-                        <th>RX1</th>
-                        <th>RX2</th>
-                        <th>RX3</th>
-                        <th>RX4</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <?php
-                    if (isset($result2)) {
-                        while($row2 = $result2->fetch_assoc()){
-                    ?>
-                    <tr>
-                        <td><?php echo $row2['pid']; ?></td>
-                        <td><?php echo $row2['vid']; ?></td>
-                        <td><?php echo $row2['dov'],"-",$row2['mov'],"-",$row2['yov']; ?></td>
-                        <td><?php echo $row2['age']; ?></td>
-                        <td><?php echo $row2['cc']; ?></td>
-                        <td><?php echo $row2['dx']; ?></td>
-                        <td><?php echo $row2['rx1']; ?></td>
-                        <td><?php echo $row2['rx2']; ?></td>
-                        <td><?php echo $row2['rx3']; ?></td>
-                        <td><?php echo $row2['rx4']; ?></td>
-                    </tr>
-                    <?php
-                        }
-                    }
-                    $conn->close();
-                    ?>
-                    </tbody>
-                </table>
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th>PID</th>
+                <th>NAME</th>
+                <th>SEX</th>
+                <th>DOB</th>
+                <th>ADR</th>
+                <th>MOB</th>
+            </tr>
+            </thead>
+            <?php
+            if (isset($result)) {
+                while($row = $result->fetch_assoc()){
+            ?>
+            <tr>
+                <td><?php echo $row['pid']; ?></td>
+                <td><?php echo $row['fnm']," ",$row['mnm']," ",$row['lnm']; ?></td>
+                <td><?php echo $row['sex']; ?></td>
+                <td><?php echo $row['dob']; ?></td>
+                <td><?php echo $row['adr']; ?></td>
+                <td><?php echo $row['mob']; ?></td>
+            </tr>
+            <?php
+                }
+            }
+            ?>
+        </table>
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th>PID</th>
+                <th>VID</th>
+                <th>DOV</th>
+                <th>AGE</th>
+                <th>CC</th>
+                <th>DX</th>
+                <th>RX1</th>
+                <th>RX2</th>
+                <th>RX3</th>
+                <th>RX4</th>
+            </tr>
+            </thead>
+            <tbody>
+            <?php
+            if (isset($result2)) {
+                while($row2 = $result2->fetch_assoc()){
+            ?>
+            <tr>
+                <td><?php echo $row2['pid']; ?></td>
+                <td><?php echo $row2['vid']; ?></td>
+                <td><?php echo $row2['dov'],"-",$row2['mov'],"-",$row2['yov']; ?></td>
+                <td><?php echo $row2['age']; ?></td>
+                <td><?php echo $row2['cc']; ?></td>
+                <td><?php echo $row2['dx']; ?></td>
+                <td><?php echo $row2['rx1']; ?></td>
+                <td><?php echo $row2['rx2']; ?></td>
+                <td><?php echo $row2['rx3']; ?></td>
+                <td><?php echo $row2['rx4']; ?></td>
+            </tr>
+            <?php
+                }
+            }
+            $conn->close();
+            ?>
+            </tbody>
+        </table>
     </div>
     <script src="js/bootstrap.bundle.js"></script>
 </body>
