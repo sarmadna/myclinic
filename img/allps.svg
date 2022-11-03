@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="50"
+   viewBox="0 0 52.916665 13.229167"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="allps.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     width="400px"
+     inkscape:zoom="2.63058"
+     inkscape:cx="93.325426"
+     inkscape:cy="19.577432"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#03506f;fill-opacity:1;stroke:none;stroke-width:0.24153"
+       id="rect1158"
+       width="13.229166"
+       height="13.229166"
+       x="0"
+       y="-3.5527133e-15" />
+    <rect
+       style="fill:#03506f;fill-opacity:1;stroke:none;stroke-width:0.418342"
+       id="rect1348"
+       width="39.687496"
+       height="13.229166"
+       x="13.229167"
+       y="0" />
+    <g
+       id="g20235"
+       transform="matrix(1.5624999,0,0,1.5624999,-64.905594,-31.832679)"
+       style="fill:#f8f9fa;fill-opacity:1">
+      <path
+         d="m 45.376042,22.489583 a 0.396875,0.396875 0 0 0 -0.396875,0.396875 v 0.264583 a 0.396875,0.396875 0 0 0 0.396875,0.396875 h 0.79375 a 0.396875,0.396875 0 0 0 0.396875,-0.396875 v -0.264583 a 0.396875,0.396875 0 0 0 -0.396875,-0.396875 z m 0.79375,0.264583 a 0.13229166,0.13229166 0 0 1 0.132291,0.132292 v 0.264583 a 0.13229166,0.13229166 0 0 1 -0.132291,0.132292 h -0.79375 A 0.13229166,0.13229166 0 0 1 45.24375,23.151041 v -0.264583 a 0.13229166,0.13229166 0 0 1 0.132292,-0.132292 z"
+         id="path19934"
+         style="fill:#f8f9fa;fill-opacity:1;stroke-width:0.264583" />
+      <path
+         d="M 44.714583,22.886458 H 44.45 a 0.52916666,0.52916666 0 0 0 -0.529167,0.529167 V 26.19375 A 0.52916666,0.52916666 0 0 0 44.45,26.722916 h 2.645833 A 0.52916666,0.52916666 0 0 0 47.625,26.19375 V 23.415625 A 0.52916666,0.52916666 0 0 0 47.095833,22.886458 H 46.83125 v 0.264583 A 0.66145832,0.66145832 0 0 1 46.169792,23.8125 h -0.79375 a 0.66145832,0.66145832 0 0 1 -0.661459,-0.661459 z m 1.5875,1.719792 a 0.2645835,0.2645835 0 1 1 0.529167,0 v 1.322916 a 0.2645835,0.2645835 0 1 1 -0.529167,0 z m -1.5875,1.058333 a 0.2645835,0.2645835 0 1 1 0.529167,0 v 0.264583 a 0.2645835,0.2645835 0 1 1 -0.529167,0 z m 1.058334,-0.79375 a 0.26458333,0.26458333 0 0 1 0.264583,0.264583 v 0.79375 a 0.2645835,0.2645835 0 1 1 -0.529167,0 v -0.79375 a 0.26458333,0.26458333 0 0 1 0.264584,-0.264583 z"
+         id="path19936"
+         style="fill:#f8f9fa;fill-opacity:1;stroke-width:0.264583" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.96875px;line-height:1.25;font-family:sans-serif;fill:#f8f9fa;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="13.233135"
+       y="8.1048489"
+       id="text7366"><tspan
+         sodipodi:role="line"
+         id="tspan7364"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.96875px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#f8f9fa;fill-opacity:1;stroke-width:0.264583"
+         x="13.233135"
+         y="8.1048489">View all records</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<div class="center">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MC | Extra</title>
+<style>
+html {
+background-color: #3f4551;
+}
+.center {
+margin: 0;
+left: 50%;
+top: 50%;
+position: absolute;
+transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+border: 3px solid #f8f9fa;
+padding: 5px;
+background-color: #f8f9fa;
+box-shadow: 10px 10px 10px black;
+}
+td {
+padding: 5px;
+font-size: 12px;
+}
+input {
+font-size: 18px;
+background-color: #f8f9fa;
+}
+button {
+width: 100px;
+padding: 5px;
+}
+p {
+font-size: 12px;
+text-align: center;
+}
+@media print {
+.center {
+margin: 0;
+left: 50%;
+top: 55%;
+position: absolute;
+transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+border: none;
+box-shadow: none;
+}
+#noprint {display: none;}
+#rx {
+font-size: 20px;
+}
+input {
+border: none;
+}
+table {
+width: 12cm;
+}
+@page {
+width: 15cm;
+height: 21cm;
+margin: 1cm;
+}
+}
+</style>
+</head>
+<body>
+<table>
+<tr>
+<td>ناو / الاسم: </td>
+<td colspan="3"><input type="text"></td>
+</tr>
+<tr>
+<td>تەمەن / العمر: </td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td>بەروار / التاريخ: </td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td colspan="4">چارەسەر / العلاج: </td>
+</tr>
+<tr>
+<td colspan="4">
+<table dir="ltr">
+<tr>
+<td colspan="4"><input type="text" size="27"></td>
+</tr>
+<tr>
+<td colspan="4"><input type="text" size="27"></td>
+</tr>
+<tr>
+<td colspan="4"><input type="text" size="27"></td>
+</tr>
+<tr>
+<td colspan="4"><input type="text" size="27"></td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center"><button id="noprint" onclick="window.location.href='extra.html'">New</button></td>
+<td style="text-align: center"><button id="noprint" onclick="window.print()">Print</button></td>
+<td></td>
+</tr>
+</table>
+</td>
+</table>
+</body>
+<footer id="noprint">
+<p dir="ltr">Please select A5 paper size in printer settings.</p>
+</footer>
+</div>
+</html>

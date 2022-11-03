@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="50"
+   viewBox="0 0 52.916665 13.229167"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="misc.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     width="400px"
+     inkscape:zoom="3.7202019"
+     inkscape:cx="83.194409"
+     inkscape:cy="49.32528"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#03506f;fill-opacity:1;stroke:none;stroke-width:0.24153"
+       id="rect1158"
+       width="13.229167"
+       height="13.229167"
+       x="0"
+       y="-7.1054274e-15" />
+    <rect
+       style="fill:#03506f;fill-opacity:1;stroke:none;stroke-width:0.418342"
+       id="rect1348"
+       width="39.6875"
+       height="13.229167"
+       x="13.229167"
+       y="-4.4408921e-15" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.96875px;line-height:1.25;font-family:sans-serif;fill:#f8f9fa;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="12.812448"
+       y="8.1048489"
+       id="text7366"><tspan
+         sodipodi:role="line"
+         id="tspan7364"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.96875px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#f8f9fa;fill-opacity:1;stroke-width:0.264583"
+         x="12.812448"
+         y="8.1048489"
+         dy="0">Miscellaneous</tspan></text>
+    <path
+       d="M 8.2682284,3.3072918 H 4.9609367 a 0.82682289,0.82682289 0 0 0 -0.826822,0.826823 v 4.9609371 a 0.82682289,0.82682289 0 0 0 0.826822,0.826823 H 8.2682284 A 0.82682289,0.82682289 0 0 0 9.0950519,9.0950519 V 4.1341148 A 0.82682289,0.82682289 0 0 0 8.2682284,3.3072918 Z M 5.374349,4.9609376 h 2.4804684 a 0.20670578,0.20670578 0 0 1 0,0.4134114 H 5.374349 a 0.20670578,0.20670578 0 0 1 0,-0.4134114 z M 5.1676425,5.9944659 A 0.20670572,0.20670572 0 0 1 5.374349,5.7877604 h 2.4804684 a 0.20670575,0.20670575 0 0 1 0,0.4134115 H 5.374349 A 0.20670572,0.20670572 0 0 1 5.1676425,5.9944659 Z M 5.374349,6.6145834 h 2.4804684 a 0.20670578,0.20670578 0 0 1 0,0.4134115 H 5.374349 a 0.20670578,0.20670578 0 0 1 0,-0.4134115 z m 0,0.826823 h 1.2402344 a 0.20670575,0.20670575 0 0 1 0,0.4134115 H 5.374349 a 0.20670575,0.20670575 0 0 1 0,-0.4134115 z"
+       id="path67074"
+       style="fill:#f8f9fa;fill-opacity:1;stroke-width:0.413411" />
+  </g>
+</svg>

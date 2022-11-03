@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="50"
+   viewBox="0 0 52.916665 13.229167"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="newv.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     width="400px"
+     inkscape:zoom="2.63058"
+     inkscape:cx="68.996191"
+     inkscape:cy="50.36912"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#03506f;fill-opacity:1;stroke:none;stroke-width:0.24153"
+       id="rect1158"
+       width="13.229167"
+       height="13.229167"
+       x="0"
+       y="-7.1054274e-15" />
+    <rect
+       style="fill:#03506f;fill-opacity:1;stroke:none;stroke-width:0.418342"
+       id="rect1348"
+       width="39.6875"
+       height="13.229167"
+       x="13.229167"
+       y="-3.9968029e-15" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.96875px;line-height:1.25;font-family:sans-serif;fill:#f8f9fa;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="13.233135"
+       y="8.1048489"
+       id="text7366"><tspan
+         sodipodi:role="line"
+         id="tspan7364"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.96875px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#f8f9fa;fill-opacity:1;stroke-width:0.264583"
+         x="13.233135"
+         y="8.1048489">Add new visit</tspan></text>
+    <path
+       d="m 9.9218749,6.6135874 a 3.3072916,3.3072916 0 1 1 -6.6145829,0 3.3072916,3.3072916 0 0 1 6.6145829,0 z M 6.8212889,5.1666475 a 0.20670572,0.20670572 0 0 0 -0.413411,0 V 6.4068819 H 5.1676435 a 0.20670572,0.20670572 0 0 0 0,0.413411 h 1.2402344 v 1.2402345 a 0.20670572,0.20670572 0 0 0 0.413411,0 V 6.8202929 h 1.2402345 a 0.20670572,0.20670572 0 0 0 0,-0.413411 H 6.8212889 Z"
+       id="path20068"
+       style="fill:#f8f9fa;fill-opacity:1;stroke-width:0.413411" />
+  </g>
+</svg>
